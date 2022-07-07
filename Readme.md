@@ -1,5 +1,8 @@
 # **First Project in Python with Keras – Easy Deep Learning**
 
+*   [English Article](https://inside-machinelearning.com/en/first-projec-keras/)
+*   [French Article](https://inside-machinelearning.com/premier-projet-keras/)
+
 If you are new to Deep Learning, this article is for you! Your first Python project with Keras awaits you.
 
 Any beginner in Deep Learning must know Keras.
